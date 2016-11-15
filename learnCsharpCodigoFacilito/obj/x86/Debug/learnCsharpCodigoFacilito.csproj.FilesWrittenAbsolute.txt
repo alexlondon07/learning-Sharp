@@ -1,0 +1,5 @@
+/Users/alexlondon07/Projects/learnCsharpCodigoFacilito/learnCsharpCodigoFacilito/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/alexlondon07/Projects/learnCsharpCodigoFacilito/learnCsharpCodigoFacilito/bin/Debug/learnCsharpCodigoFacilito.exe.mdb
+/Users/alexlondon07/Projects/learnCsharpCodigoFacilito/learnCsharpCodigoFacilito/bin/Debug/learnCsharpCodigoFacilito.exe
+/Users/alexlondon07/Projects/learnCsharpCodigoFacilito/learnCsharpCodigoFacilito/obj/x86/Debug/learnCsharpCodigoFacilito.exe
+/Users/alexlondon07/Projects/learnCsharpCodigoFacilito/learnCsharpCodigoFacilito/obj/x86/Debug/learnCsharpCodigoFacilito.exe.mdb
